@@ -1,24 +1,19 @@
-## Hi, I'm Luka Seceroivc 💻🤽‍♂️✈️
+## Hi, I'm Luka Secerovic 👋
 
-<!--
-**lukasugar/lukasugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I'm a Machine Learning and Software Engineer.
+Ex-Microsoft + couple of startups.
+
+Currently exploring the instersection of ML and medicine.
+
+Some of my recent projects/contributions:
+- 🧠 [structural MRI foundation model](https://github.com/MedARC-AI/smri-fm) - working on a structural MRI foundation model, as part of [MedARC](https://github.com/MedARC-AI)
+- 🎬 [Cinecause](https://www.cinecause.com/) - donations & movies app
+- ✍️ Started a blog at [sugarz.me](www.sugarz.me). Sharing my thoughts and learnings.
+- 🥷 (soon™️)
 
 
-## Connect
+## Let's connect!
 [![luka_secerovic](https://img.shields.io/badge/-luka.secerovic-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/luka_secerovic)
-[![Blog](https://img.shields.io/badge/-sugarz.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://sugarz.me)
-[![LinkedIn](https://img.shields.io/badge/-Luka_Secerovic-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-secerovic/)
+[![Blog](https://img.shields.io/badge/-My_blog-FF5722?style=flat-square&logo=safari&logoColor=white)](https://sugarz.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-secerovic/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lukasugar)

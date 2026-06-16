@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Luka Seceroivc 💻🤽‍♂️✈️
 
 <!--
 **lukasugar/lukasugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Machine Learning and Software Engineer.
+
+
+## Connect
+[![luka_secerovic](https://img.shields.io/badge/-luka.secerovic-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/luka_secerovic)
+[![Blog](https://img.shields.io/badge/-sugarz.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://sugarz.me)
+[![LinkedIn](https://img.shields.io/badge/-Luka_Secerovic-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/luka-secerovic/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lukasugar)

@@ -17,3 +17,4 @@ Some of my recent projects/contributions:
 [![Blog](https://img.shields.io/badge/-My_blog-FF5722?style=flat-square&logo=safari&logoColor=white)](https://sugarz.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-secerovic/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lukasugar)
+[![HF](https://img.shields.io/badge/-🤗%20Hugging%20Face-FFD21E?style=flat-square)](https://huggingface.co/alkibijad)
